@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://github.com/username/username.github.io">🌐 Мое портфолио</a> •
   <a href="https://linkedin.com/in/yourprofile">💼 LinkedIn</a> •
-  <a href="mailto:your.email@example.com">📧 Email</a>
+  <a href="mailto:zilant562@gmail.com">📧 Email</a>
 </p>
 
 ---
