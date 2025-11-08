@@ -8,24 +8,3 @@
 </p>
 
 ---
-
-## 🚀 Обо мне
-
-```python
-class Developer:
-    def __init__(self):
-        self.name = "[Ваше Имя]"
-        self.position = "[Ваша должность]"
-        self.skills = {
-            'backend': ['Python', 'Java', 'Node.js'],
-            'frontend': ['JavaScript', 'HTML/CSS', 'React'],
-            'tools': ['Git', 'Docker', 'VS Code'],
-            'databases': ['MySQL', 'PostgreSQL', 'MongoDB']
-        }
-        self.hobbies = ['Программирование', 'Чтение', 'Путешествия']
-    
-    def say_hi(self):
-        return "Добро пожаловать на мой профиль!"
-
-me = Developer()
-print(me.say_hi())
